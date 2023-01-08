@@ -1,7 +1,13 @@
 GitGitHub 2. Gün ilk deneme.
 GitGitHub 2. Gün ikinci deneme.
-GitGitHub 2. Gün ikinci deneme.
+GitGitHub 2. Gün ucuncu deneme.
 GitGitHub 2. Gün HASAN BRANCH'I ilk deneme.
 GitGitHub 2. Gün HASAN BRANCH'I ikinci deneme.
 GitGitHub 2. Gün HASAN BRANCH'I ucuncu deneme.
+<<<<<<< HEAD
 Hasan Branch
+=======
+GitGitHub 2. Gün HASAN BRANCH'I dorduncu deneme.
+GitGitHub 2. Gün HASAN BRANCH'I besinci deneme.
+GitGitHub 2. Gün HASAN BRANCH'I altinci deneme.
+>>>>>>> master
