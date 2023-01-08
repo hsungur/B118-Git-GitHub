@@ -2,3 +2,4 @@ GitGitHub 2. Gün ilk deneme.
 GitGitHub 2. Gün ikinci deneme.
 GitGitHub 2. Gün ikinci deneme.
 GitGitHub 2. Gün HASAN BRANCH'I ilk deneme.
+GitGitHub 2. Gün HASAN BRANCH'I ikinci deneme.
